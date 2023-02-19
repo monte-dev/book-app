@@ -1,0 +1,5 @@
+{
+    "editor.codeActionsOnSave": {
+        "html.validate.styles": false
+    }
+}
